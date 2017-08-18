@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					CBA37EA21F46EBD5006BB829 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 67822934AQ;
 						ProvisioningStyle = Automatic;
 					};
 					CBA37EB61F46EBD5006BB829 = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 67822934AQ;
 				INFOPLIST_FILE = COI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.synerzip.COI;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 67822934AQ;
 				INFOPLIST_FILE = COI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.synerzip.COI;
