@@ -195,7 +195,7 @@
 					CBA37EA21F46EBD5006BB829 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 67822934AQ;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 					CBA37EB61F46EBD5006BB829 = {
 						CreatedOnToolsVersion = 8.3.3;
@@ -439,6 +439,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.synerzip.COI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "8dceb652-39e0-4c3b-be0c-b5ff73cbc1bb";
+				PROVISIONING_PROFILE_SPECIFIER = integration;
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -452,6 +454,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.synerzip.COI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "8dceb652-39e0-4c3b-be0c-b5ff73cbc1bb";
+				PROVISIONING_PROFILE_SPECIFIER = integration;
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
