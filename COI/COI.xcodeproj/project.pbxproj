@@ -445,7 +445,7 @@
 				DEVELOPMENT_TEAM = 67822934AQ;
 				INFOPLIST_FILE = COI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.synerzip.-";
+				PRODUCT_BUNDLE_IDENTIFIER = com.synerzip.COI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -462,7 +462,7 @@
 				DEVELOPMENT_TEAM = 67822934AQ;
 				INFOPLIST_FILE = COI/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.synerzip.-";
+				PRODUCT_BUNDLE_IDENTIFIER = com.synerzip.COI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
